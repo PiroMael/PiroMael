@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mael Piro</h1>
 <h3 align="center">A passionate Junior web Developer</h3>
 
-- 🔭 I worked on [Alanej](https://github.com/EricChomette/alanej) and [AIRB&ME](https://airbandme.herokuapp.com/)
+- 🔭 I worked on [Alanej](https://github.com/EricChomette/alanej) , [AIRB&ME](https://airbandme.herokuapp.com/) , [A BLOG](https://thepurpulearkportal.herokuapp.com/) AND [THREEJS SCENES](https://threejs-trainings.herokuapp.com/)
 
 
 <h3 align="left">Connect with me:</h3>
